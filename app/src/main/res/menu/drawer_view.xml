@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/premiers"
+
+            android:title="@string/premiers" />
+        <item
+            android:id="@+id/games_base"
+
+            android:title="@string/games_base" />
+        <item
+            android:id="@+id/ranks"
+
+            android:title="@string/ranks" />
+        <item
+            android:id="@+id/recense"
+
+            android:title="@string/recense" />
+    </group>
+</menu>

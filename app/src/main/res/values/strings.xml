@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GamehakeHa</string>
+    <string name="premiers">Premiery</string>
+    <string name="games_base">Baza gier</string>
+    <string name="recense">Recenzje</string>
+    <string name="ranks">Ranking</string>
+</resources>
